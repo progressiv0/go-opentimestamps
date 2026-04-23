@@ -11,7 +11,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/opentimestamps/go-opentimestamps/core"
+	"github.com/progressiv0/go-opentimestamps/core"
 )
 
 func TestAddOp(t *testing.T) {

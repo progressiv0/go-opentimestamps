@@ -10,8 +10,8 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/opentimestamps/go-opentimestamps/core"
-	"github.com/opentimestamps/go-opentimestamps/dubious"
+	"github.com/progressiv0/go-opentimestamps/core"
+	"github.com/progressiv0/go-opentimestamps/dubious"
 )
 
 func TestEthereumAttestationSerialize(t *testing.T) {

@@ -10,7 +10,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/opentimestamps/go-opentimestamps/core"
+	"github.com/progressiv0/go-opentimestamps/core"
 )
 
 func TestPendingAttestationSerialize(t *testing.T) {

@@ -11,8 +11,8 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/opentimestamps/go-opentimestamps/bitcoin"
-	"github.com/opentimestamps/go-opentimestamps/core"
+	"github.com/progressiv0/go-opentimestamps/bitcoin"
+	"github.com/progressiv0/go-opentimestamps/core"
 )
 
 // testTx is a minimal Transaction implementation for testing.

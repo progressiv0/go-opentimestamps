@@ -9,7 +9,7 @@ package opentimestamps
 import (
 	"crypto/rand"
 
-	"github.com/opentimestamps/go-opentimestamps/core"
+	"github.com/progressiv0/go-opentimestamps/core"
 )
 
 // NonceTimestamp creates a nonced version of a timestamp for privacy.

@@ -1,4 +1,4 @@
-module github.com/opentimestamps/go-opentimestamps
+module github.com/progressiv0/go-opentimestamps
 
 go 1.21
 

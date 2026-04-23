@@ -8,8 +8,8 @@ package opentimestamps_test
 import (
 	"testing"
 
-	"github.com/opentimestamps/go-opentimestamps"
-	"github.com/opentimestamps/go-opentimestamps/core"
+	"github.com/progressiv0/go-opentimestamps"
+	"github.com/progressiv0/go-opentimestamps/core"
 )
 
 func TestNonceTimestamp(t *testing.T) {

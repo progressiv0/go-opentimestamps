@@ -13,7 +13,7 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/opentimestamps/go-opentimestamps/core"
+	"github.com/progressiv0/go-opentimestamps/core"
 )
 
 // EthereumAttestationTag is the 8-byte tag for EthereumBlockHeaderAttestation.

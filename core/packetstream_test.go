@@ -9,7 +9,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/opentimestamps/go-opentimestamps/core"
+	"github.com/progressiv0/go-opentimestamps/core"
 )
 
 func writeAndRead(t *testing.T, writes [][]byte) []byte {

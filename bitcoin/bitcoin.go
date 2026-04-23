@@ -9,7 +9,7 @@ package bitcoin
 import (
 	"bytes"
 
-	"github.com/opentimestamps/go-opentimestamps/core"
+	"github.com/progressiv0/go-opentimestamps/core"
 )
 
 // Transaction is the minimal interface needed to construct a timestamp from a block.

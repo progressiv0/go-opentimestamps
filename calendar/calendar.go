@@ -16,7 +16,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/opentimestamps/go-opentimestamps/core"
+	"github.com/progressiv0/go-opentimestamps/core"
 )
 
 // CommitmentNotFoundError is returned when the calendar does not have a commitment.

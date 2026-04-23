@@ -8,7 +8,7 @@ package calendar_test
 import (
 	"testing"
 
-	"github.com/opentimestamps/go-opentimestamps/calendar"
+	"github.com/progressiv0/go-opentimestamps/calendar"
 )
 
 func TestUrlWhitelistEmpty(t *testing.T) {
@@ -80,7 +80,7 @@ func TestUrlWhitelistContains(t *testing.T) {
 	}
 
 	denied := []string{
-		"http://alice.calendar.opentimestamps.org",              // wrong scheme
+		"http://alice.calendar.opentimestamps.org", // wrong scheme
 		"https://evil.com",
 		"https://alice.evil.com",
 		"https://alice.calendar.opentimestamps.org/path?query=1", // has query

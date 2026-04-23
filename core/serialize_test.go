@@ -8,7 +8,7 @@ package core_test
 import (
 	"testing"
 
-	"github.com/opentimestamps/go-opentimestamps/core"
+	"github.com/progressiv0/go-opentimestamps/core"
 )
 
 func TestAssertEOF(t *testing.T) {
